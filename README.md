@@ -2,4 +2,4 @@
 
 #Live URL  https://manpreetsingh.ga
 
-#Link  https://manpreet-singh10196.github.io/Portfolio/
+#Link  https://The-manpreet-singh.github.io/Portfolio/
